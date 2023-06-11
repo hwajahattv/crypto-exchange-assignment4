@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.4fc69e2c.js",
+    "static/js/787.f436216a.chunk.js": "/static/js/787.f436216a.chunk.js",
+    "static/media/monero.png": "/static/media/monero.5a907c6a594ad6c0d97b.png",
+    "static/media/litecoin.png": "/static/media/litecoin.7a624fe6626ca666da08.png",
+    "static/media/worldcoin.png": "/static/media/worldcoin.6405e6cf59d76951d925.png",
+    "static/media/bitcoincash.png": "/static/media/bitcoincash.d4860d8d36b6da77a489.png",
+    "static/media/namecoin.png": "/static/media/namecoin.7322d9ea35c460b4041e.png",
+    "static/media/dash.png": "/static/media/dash.7593f1dd1342b864bda0.png",
+    "static/media/peercoin.png": "/static/media/peercoin.ca484cf05d1bf3c589a4.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.4fc69e2c.js.map": "/static/js/main.4fc69e2c.js.map",
+    "787.f436216a.chunk.js.map": "/static/js/787.f436216a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4fc69e2c.js"
+  ]
+}
